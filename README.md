@@ -8,6 +8,12 @@ info
 
 ---
 ```mermaid
+architecture-beta
+  svg-spinners:bars-scale
+```
+
+---
+```mermaid
 ---
 config:
   sankey:
