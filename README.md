@@ -9,7 +9,7 @@ info
 ---
 ```mermaid
 architecture-beta
-  svg-spinners:bars-scale
+  service db(svg-spinners:bars-scale)[Database]
 ```
 
 ---
